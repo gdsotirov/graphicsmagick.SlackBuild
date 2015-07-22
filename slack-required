@@ -20,6 +20,7 @@ libjpeg >= v8a
 libpng >= 1.4.12
 libtiff >= 3.9.7
 libtool >= 2.4
+libwebp >= 0.4.3
 libwmf >= 0.2.8.4
 libxcb >= 1.9.1
 libxml2 >= 2.9.1
