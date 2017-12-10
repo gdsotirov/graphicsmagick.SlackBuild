@@ -19,14 +19,14 @@
 #
 # Visit SlackPack at http://sotirov-bg.net/slackpack/
 #
-# $Id: graphicsmagick.SlackBuild,v 1.7 2017/07/06 13:32:03 gsotirov Exp $
+# $Id: graphicsmagick.SlackBuild,v 1.8 2017/12/10 11:58:49 gsotirov Exp $
 #
 
 . ../../slack-package.conf
 
 NAME=GraphicsMagick
 PNAME=`echo $NAME | tr "[:upper:]" "[:lower:]"`
-VERSION=1.3.26
+VERSION=1.3.27
 ARCH=${ARCH:-i586}
 BUILD=${BUILD:-1}
 
