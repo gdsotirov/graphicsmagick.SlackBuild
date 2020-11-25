@@ -8,4 +8,4 @@ graphicsmagick: like DPX, GIF, JPEG, JPEG-2000, PNG, PDF, PNM, and TIFF.
 graphicsmagick:   It's fast, small and availiable from the command line, as
 graphicsmagick: well as through C, C++, Perl, PHP, Tcl, Ruby interfaces.
 graphicsmagick:
-graphicsmagick: Packaged by Gerogi D. Sotirov <gdsotirov@dir.bg>
+graphicsmagick: Packaged by Gerogi D. Sotirov <gdsotirov@gmail.com>
